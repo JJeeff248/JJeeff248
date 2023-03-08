@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**JJeeff248/JJeeff248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Chris Sa - JJeeff248
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Developer (and Student) from New Zealand. &nbsp;[<img src="https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif" alt="New Zeland Flag" width="40px">](https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif)
+
+- 🔭 I’m currently not working, but I am looking for work.
+- 📚 Completing a major in Computer and Data Science at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
+- ⚜  In my free time I volunteer with Scouts and Guides NZ.
+
+---
+
+## Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50px">
+</div>
