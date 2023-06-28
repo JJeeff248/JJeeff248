@@ -6,7 +6,7 @@
 
 I am a Full Stack Developer (and Student) from New Zealand, born in South Africa. &nbsp; [<img src="https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif" alt="New Zeland Flag" width="40px">](https://media.giphy.com/media/Qa4cAGMr5NfUuINAXd/giphy.gif) &nbsp; [<img src="https://www.fg-a.com/flags/animated-south-african-flag.gif" alt="South African Flag" width="40px">](https://www.fg-a.com/flags/animated-south-african-flag.gif)
 
-- 🔭 I’m currently not working, but I am looking for work.
+- 🔭 Looking for work doing back-end web development.
 - 📚 Completing a major in Computer and Data Science at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
 - ⚜  In my free time I volunteer with Scouts and Guides NZ.
 
