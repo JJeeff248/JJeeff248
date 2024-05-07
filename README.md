@@ -16,7 +16,7 @@ I am a Full Stack Developer (and Student) from New Zealand, born in South Africa
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50px">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50px">
