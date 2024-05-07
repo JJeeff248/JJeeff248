@@ -24,7 +24,7 @@ I am a Full Stack Developer (and Student) from New Zealand, born in South Africa
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50px">
